@@ -43,7 +43,7 @@
 
             <Button
                 android:id="@+id/button1"
-                style="@android:style/Widget.Material.Button"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:width="100dp"
